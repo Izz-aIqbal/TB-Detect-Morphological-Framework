@@ -1,0 +1,30 @@
+======================================================================
+             V-SCAN MEDICAL AI: RADIOLOGY DIAGNOSTIC REPORT            
+======================================================================
+ FILE ID: others (283).jpg          DATE: 01-04-2026
+ METHOD:  Multistage DIP Pipeline        STATUS: FINAL RELEASE
+----------------------------------------------------------------------
+
+ [ SUMMARY OF FINDINGS ]
++-----------------------------------+-------------------------------+
+| DIAGNOSTIC PARAMETER              | OBSERVED VALUE                |
++-----------------------------------+-------------------------------+
+| Overall Severity Grade            | Grade II: Diffuse Infiltration |
+| Infection Area Ratio (IAR)        |   2.14%                       |
+| Detected Lesion Clusters          | 33                            |
+| Bilateral Symmetry Status         | SYMMETRIC                     |
++-----------------------------------+-------------------------------+
+
+ [ CLINICAL INTERPRETATION ]
+ > Moderate spread across lung lobes. Standard TB pattern.
+
+ [ REFERENCE METRICS ]
+ * IAR: 2.14% (Density of infected tissue skeletonized by DIP)
+   Scale: <0.5% (Trace) | 0.5-2.0% (Moderate) | >2.0% (Severe)
+
+ * SYMMETRY: SYMMETRIC
+   Note: Asymmetry is often a precursor to unilateral lung disease.
+
+----------------------------------------------------------------------
+ DISCLAIMER: AI-assisted summary. Confirm with a Radiologist.
+======================================================================

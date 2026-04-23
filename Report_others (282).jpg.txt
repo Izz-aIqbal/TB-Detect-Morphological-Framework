@@ -1,0 +1,7 @@
+--- V-SCAN ADVANCED DIAGNOSTIC REPORT ---
+File Name: others (282).jpg
+Severity Grade: Grade II: Diffuse Infiltration
+Infection Area Ratio (IAR): 2.24%
+Detected Lesion Clusters: 48
+Symmetry Status: ✅ SYMMETRIC
+----------------------------------------

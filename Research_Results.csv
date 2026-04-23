@@ -1,0 +1,492 @@
+File,IAR,Grade,PSNR
+CHNCXR_0145_0.png,1.9162499999999998,Grade II: Diffuse Infiltration,28.581103543302277
+CHNCXR_0146_0.png,1.763125,Grade II: Diffuse Infiltration,26.595181846442767
+CHNCXR_0147_0.png,2.0587500000000003,Grade II: Diffuse Infiltration,26.51462804616809
+CHNCXR_0148_0.png,2.09125,Grade II: Diffuse Infiltration,26.30115128494374
+CHNCXR_0149_0.png,2.0075,Grade II: Diffuse Infiltration,28.483628645258182
+CHNCXR_0157_0.png,1.7274999999999998,Grade II: Diffuse Infiltration,25.990658234645174
+CHNCXR_0158_0.png,1.9800000000000002,Grade II: Diffuse Infiltration,26.70766151862062
+CHNCXR_0159_0.png,2.1950000000000003,Grade II: Diffuse Infiltration,29.47586074349178
+CHNCXR_0160_0.png,1.9775,Grade II: Diffuse Infiltration,29.74009183723791
+CHNCXR_0161_0.png,2.1149999999999998,Grade II: Diffuse Infiltration,30.58426530382821
+CHNCXR_0325_0.png,1.7500000000000002,Grade II: Diffuse Infiltration,27.26111476771933
+CHNCXR_0326_0.png,1.966875,Grade II: Diffuse Infiltration,27.69439859966937
+CHNCXR_0327_1.png,1.67625,Grade II: Diffuse Infiltration,29.24834540976669
+CHNCXR_0328_1.png,1.8499999999999999,Grade II: Diffuse Infiltration,26.255806502402383
+CHNCXR_0329_1.png,1.809375,Grade II: Diffuse Infiltration,29.968116696929357
+CHNCXR_0330_1.png,1.789375,Grade II: Diffuse Infiltration,29.555594094621497
+CHNCXR_0331_1.png,1.930625,Grade II: Diffuse Infiltration,30.26368413768872
+CHNCXR_0332_1.png,1.9893750000000001,Grade II: Diffuse Infiltration,28.58680086425734
+CHNCXR_0333_1.png,1.94375,Grade II: Diffuse Infiltration,29.779652937064768
+CHNCXR_0334_1.png,1.733125,Grade II: Diffuse Infiltration,27.26693676851265
+CHNCXR_0335_1.png,1.664375,Grade II: Diffuse Infiltration,29.263635934914948
+CHNCXR_0336_1.png,1.668125,Grade II: Diffuse Infiltration,29.017592563802907
+CHNCXR_0337_1.png,1.8037500000000002,Grade II: Diffuse Infiltration,29.88668902983557
+CHNCXR_0338_1.png,2.0650000000000004,Grade II: Diffuse Infiltration,29.780787081044767
+CHNCXR_0339_1.png,2.046875,Grade II: Diffuse Infiltration,29.76778601456529
+CHNCXR_0340_1.png,1.818125,Grade II: Diffuse Infiltration,28.431858001946672
+CHNCXR_0341_1.png,1.894375,Grade II: Diffuse Infiltration,27.358870716131616
+CHNCXR_0342_1.png,1.89375,Grade II: Diffuse Infiltration,29.180713096682908
+CHNCXR_0343_1.png,1.9775,Grade II: Diffuse Infiltration,29.81757396583564
+CHNCXR_0344_1.png,1.79,Grade II: Diffuse Infiltration,29.532616090577697
+CHNCXR_0345_1.png,1.79375,Grade II: Diffuse Infiltration,29.10324977350569
+CHNCXR_0346_1.png,1.6843750000000002,Grade II: Diffuse Infiltration,28.854485886317903
+CHNCXR_0347_1.png,1.8887500000000002,Grade II: Diffuse Infiltration,26.431663853003077
+CHNCXR_0348_1.png,2.286875,Grade II: Diffuse Infiltration,27.905131242630866
+CHNCXR_0349_1.png,1.6837499999999999,Grade II: Diffuse Infiltration,27.5048535740075
+CHNCXR_0350_1.png,1.8106250000000002,Grade II: Diffuse Infiltration,30.195789619205694
+CHNCXR_0351_1.png,1.849375,Grade II: Diffuse Infiltration,26.712469668369963
+CHNCXR_0352_1.png,1.8399999999999999,Grade II: Diffuse Infiltration,30.225783237153323
+CHNCXR_0353_1.png,2.091875,Grade II: Diffuse Infiltration,30.37961001422064
+CHNCXR_0354_1.png,1.683125,Grade II: Diffuse Infiltration,29.88166293378478
+CHNCXR_0355_1.png,2.019375,Grade II: Diffuse Infiltration,30.154478578332153
+CHNCXR_0356_1.png,1.62125,Grade II: Diffuse Infiltration,30.17612249967197
+CHNCXR_0357_1.png,1.783125,Grade II: Diffuse Infiltration,29.126220126367105
+CHNCXR_0358_1.png,1.86375,Grade II: Diffuse Infiltration,30.33761750050803
+CHNCXR_0359_1.png,2.18375,Grade II: Diffuse Infiltration,29.664905251582063
+CHNCXR_0360_1.png,1.9,Grade II: Diffuse Infiltration,29.77146874315732
+CHNCXR_0361_1.png,1.9887499999999998,Grade II: Diffuse Infiltration,30.812455114911693
+CHNCXR_0362_1.png,1.7874999999999999,Grade II: Diffuse Infiltration,29.8099497197423
+CHNCXR_0363_1.png,2.18125,Grade II: Diffuse Infiltration,30.025829183427568
+CHNCXR_0364_1.png,1.8381249999999998,Grade II: Diffuse Infiltration,26.924407763728617
+CHNCXR_0365_1.png,1.719375,Grade II: Diffuse Infiltration,30.452421772247153
+CHNCXR_0366_1.png,2.15125,Grade II: Diffuse Infiltration,30.08391377408328
+CHNCXR_0367_1.png,1.921875,Grade II: Diffuse Infiltration,29.507465717388726
+CHNCXR_0368_1.png,1.6150000000000002,Grade II: Diffuse Infiltration,30.185472227707034
+CHNCXR_0369_1.png,2.080625,Grade II: Diffuse Infiltration,30.17251897338617
+CHNCXR_0370_1.png,1.651875,Grade II: Diffuse Infiltration,27.11592987788554
+CHNCXR_0371_1.png,2.2025,Grade II: Diffuse Infiltration,26.99829152893633
+CHNCXR_0372_1.png,1.6968750000000001,Grade II: Diffuse Infiltration,27.449415734412757
+CHNCXR_0373_1.png,1.7912500000000002,Grade II: Diffuse Infiltration,26.918886165696968
+CHNCXR_0374_1.png,1.821875,Grade II: Diffuse Infiltration,27.293302735557265
+CHNCXR_0375_1.png,1.840625,Grade II: Diffuse Infiltration,27.85798043366492
+CHNCXR_0376_1.png,1.95625,Grade II: Diffuse Infiltration,29.914448066355
+CHNCXR_0377_1.png,1.91,Grade II: Diffuse Infiltration,30.163327086781422
+CHNCXR_0378_1.png,1.82375,Grade II: Diffuse Infiltration,30.40639872142505
+CHNCXR_0379_1.png,1.8724999999999998,Grade II: Diffuse Infiltration,29.65663264379261
+CHNCXR_0380_1.png,1.893125,Grade II: Diffuse Infiltration,30.148668621889414
+CHNCXR_0381_1.png,2.144375,Grade II: Diffuse Infiltration,29.57572373132418
+CHNCXR_0382_1.png,1.9212500000000001,Grade II: Diffuse Infiltration,29.781560675225457
+CHNCXR_0383_1.png,1.84375,Grade II: Diffuse Infiltration,30.176743739810924
+CHNCXR_0384_1.png,1.745625,Grade II: Diffuse Infiltration,25.87019034338158
+CHNCXR_0385_1.png,1.623125,Grade II: Diffuse Infiltration,27.18145268956517
+CHNCXR_0386_1.png,1.614375,Grade II: Diffuse Infiltration,27.257628684205674
+CHNCXR_0387_1.png,2.06,Grade II: Diffuse Infiltration,29.052364663658658
+CHNCXR_0388_1.png,1.87375,Grade II: Diffuse Infiltration,30.219780126033807
+CHNCXR_0389_1.png,1.9331250000000002,Grade II: Diffuse Infiltration,28.203943217057823
+CHNCXR_0390_1.png,1.8849999999999998,Grade II: Diffuse Infiltration,29.642286419867435
+CHNCXR_0391_1.png,1.491875,Grade I: Traces Detected,26.136587780315388
+CHNCXR_0392_1.png,1.7874999999999999,Grade II: Diffuse Infiltration,29.541585138893648
+CHNCXR_0393_1.png,1.930625,Grade II: Diffuse Infiltration,29.659995302149884
+CHNCXR_0394_1.png,1.98125,Grade II: Diffuse Infiltration,29.07435801839284
+CHNCXR_0395_1.png,1.555625,Grade II: Diffuse Infiltration,26.707435225076694
+CHNCXR_0396_1.png,1.740625,Grade II: Diffuse Infiltration,29.897418699334082
+CHNCXR_0397_1.png,1.92875,Grade II: Diffuse Infiltration,30.48472997984561
+CHNCXR_0398_1.png,1.843125,Grade II: Diffuse Infiltration,26.61192757694362
+CHNCXR_0399_1.png,1.9606249999999998,Grade II: Diffuse Infiltration,30.076797622251664
+CHNCXR_0400_1.png,1.645625,Grade II: Diffuse Infiltration,27.093819135128435
+CHNCXR_0401_1.png,2.076875,Grade II: Diffuse Infiltration,30.949217589562966
+CHNCXR_0402_1.png,1.9300000000000002,Grade II: Diffuse Infiltration,30.072652796382155
+CHNCXR_0403_1.png,1.935625,Grade II: Diffuse Infiltration,29.591746694605952
+CHNCXR_0404_1.png,1.8193750000000002,Grade II: Diffuse Infiltration,26.996724184924446
+CHNCXR_0405_1.png,1.6993749999999999,Grade II: Diffuse Infiltration,26.74648972678299
+CHNCXR_0406_1.png,1.953125,Grade II: Diffuse Infiltration,29.98355644760683
+CHNCXR_0407_1.png,2.1343750000000004,Grade II: Diffuse Infiltration,30.165901109763524
+CHNCXR_0408_1.png,1.83625,Grade II: Diffuse Infiltration,29.542093750862996
+CHNCXR_0409_1.png,1.8487500000000001,Grade II: Diffuse Infiltration,25.86928173986404
+CHNCXR_0410_1.png,1.9956249999999998,Grade II: Diffuse Infiltration,26.745071025720932
+CHNCXR_0411_1.png,1.8006250000000001,Grade II: Diffuse Infiltration,30.252843322392543
+CHNCXR_0412_1.png,2.126875,Grade II: Diffuse Infiltration,30.33795409063641
+CHNCXR_0413_1.png,1.79875,Grade II: Diffuse Infiltration,26.76759599932506
+CHNCXR_0415_1.png,1.794375,Grade II: Diffuse Infiltration,26.429821235526298
+CHNCXR_0416_1.png,1.813125,Grade II: Diffuse Infiltration,25.753524070883028
+CHNCXR_0417_1.png,1.681875,Grade II: Diffuse Infiltration,26.052714054423177
+CHNCXR_0418_1.png,1.688125,Grade II: Diffuse Infiltration,26.50113153106165
+CHNCXR_0419_1.png,1.7774999999999999,Grade II: Diffuse Infiltration,26.166071167681785
+CHNCXR_0420_1.png,1.55875,Grade II: Diffuse Infiltration,26.920275715296604
+CHNCXR_0421_1.png,1.7281250000000001,Grade II: Diffuse Infiltration,27.221540053701936
+CHNCXR_0422_1.png,2.108125,Grade II: Diffuse Infiltration,29.903295390955563
+CHNCXR_0423_1.png,1.8425,Grade II: Diffuse Infiltration,29.775092367827796
+CHNCXR_0424_1.png,2.19625,Grade II: Diffuse Infiltration,30.374604025353875
+CHNCXR_0425_1.png,1.678125,Grade II: Diffuse Infiltration,29.850267813356655
+CHNCXR_0426_1.png,1.6993749999999999,Grade II: Diffuse Infiltration,25.526233647496408
+CHNCXR_0427_1.png,2.141875,Grade II: Diffuse Infiltration,30.686658607621577
+CHNCXR_0428_1.png,1.92875,Grade II: Diffuse Infiltration,29.732030843943797
+CHNCXR_0429_1.png,2.1475,Grade II: Diffuse Infiltration,29.372545439731013
+CHNCXR_0430_1.png,1.9293749999999998,Grade II: Diffuse Infiltration,30.690284095863607
+CHNCXR_0431_1.png,1.8399999999999999,Grade II: Diffuse Infiltration,29.695164971524427
+CHNCXR_0432_1.png,1.6737499999999998,Grade II: Diffuse Infiltration,29.444729110697775
+CHNCXR_0433_1.png,1.811875,Grade II: Diffuse Infiltration,30.104088948975548
+CHNCXR_0434_1.png,1.9162499999999998,Grade II: Diffuse Infiltration,30.009445022653765
+CHNCXR_0435_1.png,1.8575000000000002,Grade II: Diffuse Infiltration,29.070646240000872
+CHNCXR_0436_1.png,1.9112500000000001,Grade II: Diffuse Infiltration,30.213901503521356
+CHNCXR_0437_1.png,1.9800000000000002,Grade II: Diffuse Infiltration,29.638573300421527
+CHNCXR_0438_1.png,1.8106250000000002,Grade II: Diffuse Infiltration,29.08055565267245
+CHNCXR_0439_1.png,1.8450000000000002,Grade II: Diffuse Infiltration,26.069738410098203
+CHNCXR_0440_1.png,1.8918750000000002,Grade II: Diffuse Infiltration,26.3538243727881
+CHNCXR_0441_1.png,1.740625,Grade II: Diffuse Infiltration,26.798027863841792
+CHNCXR_0442_1.png,2.106875,Grade II: Diffuse Infiltration,30.496140874310548
+CHNCXR_0443_1.png,1.64125,Grade II: Diffuse Infiltration,30.401215268010215
+CHNCXR_0444_1.png,2.0931249999999997,Grade II: Diffuse Infiltration,30.604151629983892
+CHNCXR_0445_1.png,1.7812499999999998,Grade II: Diffuse Infiltration,30.455547131640447
+CHNCXR_0446_1.png,1.58375,Grade II: Diffuse Infiltration,27.34790762972189
+CHNCXR_0447_1.png,2.183125,Grade II: Diffuse Infiltration,29.76649663002453
+CHNCXR_0448_1.png,1.8475,Grade II: Diffuse Infiltration,29.374892196766883
+CHNCXR_0449_1.png,1.8162500000000001,Grade II: Diffuse Infiltration,27.169538700251664
+CHNCXR_0450_1.png,2.00625,Grade II: Diffuse Infiltration,29.583287125771772
+CHNCXR_0451_1.png,1.9075000000000002,Grade II: Diffuse Infiltration,29.801541193013495
+CHNCXR_0452_1.png,1.84375,Grade II: Diffuse Infiltration,29.723509647343963
+CHNCXR_0453_1.png,1.940625,Grade II: Diffuse Infiltration,30.00132930148594
+CHNCXR_0454_1.png,1.6462500000000002,Grade II: Diffuse Infiltration,29.827630907362824
+CHNCXR_0455_1.png,1.596875,Grade II: Diffuse Infiltration,30.824519418980483
+CHNCXR_0456_1.png,1.86625,Grade II: Diffuse Infiltration,26.207527521076166
+CHNCXR_0457_1.png,2.13875,Grade II: Diffuse Infiltration,29.90348726708914
+CHNCXR_0458_1.png,1.8762500000000002,Grade II: Diffuse Infiltration,30.432000652675335
+CHNCXR_0459_1.png,2.141875,Grade II: Diffuse Infiltration,30.048727650523233
+CHNCXR_0460_1.png,1.8343749999999999,Grade II: Diffuse Infiltration,29.905710790723433
+CHNCXR_0461_1.png,1.76375,Grade II: Diffuse Infiltration,27.21180955301568
+CHNCXR_0462_1.png,2.000625,Grade II: Diffuse Infiltration,29.792026261173078
+CHNCXR_0463_1.png,1.9518750000000002,Grade II: Diffuse Infiltration,29.05583144046346
+CHNCXR_0464_1.png,1.8193750000000002,Grade II: Diffuse Infiltration,29.08203066962988
+CHNCXR_0465_1.png,1.789375,Grade II: Diffuse Infiltration,30.17854753521533
+CHNCXR_0466_1.png,1.905,Grade II: Diffuse Infiltration,29.68504447163813
+CHNCXR_0467_1.png,1.8412499999999998,Grade II: Diffuse Infiltration,29.471765224115508
+CHNCXR_0468_1.png,1.83375,Grade II: Diffuse Infiltration,29.319202926910553
+others (1).jpg,2.473125,Grade II: Diffuse Infiltration,28.76235871283243
+others (10).jpg,2.3712500000000003,Grade II: Diffuse Infiltration,30.81130924526572
+others (100).jpg,2.04375,Grade II: Diffuse Infiltration,31.456454455830286
+others (101).jpg,2.066875,Grade II: Diffuse Infiltration,29.36155526674947
+others (102).jpg,2.003125,Grade II: Diffuse Infiltration,31.32554885168735
+others (103).jpg,2.183125,Grade II: Diffuse Infiltration,30.75420317731892
+others (105).jpg,1.9949999999999999,Grade II: Diffuse Infiltration,30.92086153833815
+others (106).jpg,1.7525,Grade II: Diffuse Infiltration,31.564155131347352
+others (107).jpg,1.89625,Grade II: Diffuse Infiltration,32.58631103881276
+others (108).jpg,2.305,Grade II: Diffuse Infiltration,30.10853780781452
+others (109).jpg,1.6712500000000001,Grade II: Diffuse Infiltration,31.819430779888513
+others (11).jpg,2.289375,Grade II: Diffuse Infiltration,31.647611584065093
+others (110).jpg,2.12375,Grade II: Diffuse Infiltration,29.258434456981497
+others (111).jpg,2.404375,Grade II: Diffuse Infiltration,30.906928551934627
+others (112).jpg,1.804375,Grade II: Diffuse Infiltration,30.142444979475066
+others (113).jpg,2.1193750000000002,Grade II: Diffuse Infiltration,28.68399032096419
+others (114).jpg,1.981875,Grade II: Diffuse Infiltration,30.330750623643453
+others (115).jpg,1.959375,Grade II: Diffuse Infiltration,30.452611250306013
+others (116).jpg,2.081875,Grade II: Diffuse Infiltration,30.33660337590845
+others (117).jpg,2.325,Grade II: Diffuse Infiltration,31.46170498763981
+others (118).jpg,1.853125,Grade II: Diffuse Infiltration,30.607129870761
+others (119).jpg,1.871875,Grade II: Diffuse Infiltration,32.16059897112039
+others (12).jpg,2.095625,Grade II: Diffuse Infiltration,31.613417591850563
+others (120).jpg,1.9675000000000002,Grade II: Diffuse Infiltration,29.32246518650406
+others (121).jpg,2.3712500000000003,Grade II: Diffuse Infiltration,30.357472590440334
+others (122).jpg,2.110625,Grade II: Diffuse Infiltration,29.14832576022784
+others (123).jpg,2.28125,Grade II: Diffuse Infiltration,31.27069566172232
+others (124).jpg,2.244375,Grade II: Diffuse Infiltration,28.686842477917924
+others (125).jpg,1.98625,Grade II: Diffuse Infiltration,29.569972763738118
+others (126).jpg,2.194375,Grade II: Diffuse Infiltration,30.73575410464843
+others (127).jpg,2.04375,Grade II: Diffuse Infiltration,29.52902960630916
+others (128).jpg,2.159375,Grade II: Diffuse Infiltration,29.351556997593264
+others (129).jpg,1.959375,Grade II: Diffuse Infiltration,28.525322330041945
+others (13).jpg,2.305,Grade II: Diffuse Infiltration,30.71554925261829
+others (130).jpg,2.18875,Grade II: Diffuse Infiltration,30.437980932743947
+others (131).jpg,2.353125,Grade II: Diffuse Infiltration,30.617859047689784
+others (132).jpg,1.868125,Grade II: Diffuse Infiltration,29.181217105346335
+others (133).jpg,2.044375,Grade II: Diffuse Infiltration,29.422266275589465
+others (134).jpg,2.03375,Grade II: Diffuse Infiltration,32.00842031852298
+others (135).jpg,1.9712500000000002,Grade II: Diffuse Infiltration,30.096353660286574
+others (136).jpg,2.1662500000000002,Grade II: Diffuse Infiltration,29.771930541619376
+others (137).jpg,2.271875,Grade II: Diffuse Infiltration,29.355159941294918
+others (138).jpg,2.199375,Grade II: Diffuse Infiltration,28.325873482628037
+others (139).jpg,2.431875,Grade II: Diffuse Infiltration,29.00530514471901
+others (14).jpg,2.01375,Grade II: Diffuse Infiltration,31.743824306282377
+others (140).jpg,2.07125,Grade II: Diffuse Infiltration,30.535284694005025
+others (141).jpg,2.32,Grade II: Diffuse Infiltration,31.00269143935158
+others (142).jpg,2.261875,Grade II: Diffuse Infiltration,30.56813816825678
+others (143).jpg,1.9025,Grade II: Diffuse Infiltration,30.63804568118199
+others (144).jpg,2.063125,Grade II: Diffuse Infiltration,32.208863181181464
+others (145).jpg,2.41,Grade II: Diffuse Infiltration,29.806999193347504
+others (146).jpg,2.444375,Grade II: Diffuse Infiltration,29.987608327436533
+others (147).jpg,1.9449999999999998,Grade II: Diffuse Infiltration,32.1595302139573
+others (148).jpg,2.083125,Grade II: Diffuse Infiltration,30.239698012664707
+others (149).jpg,1.91,Grade II: Diffuse Infiltration,30.578083641600227
+others (15).jpg,2.5256250000000002,Grade II: Diffuse Infiltration,32.86054881570043
+others (150).jpg,2.225625,Grade II: Diffuse Infiltration,29.222954864461506
+others (151).jpg,2.35375,Grade II: Diffuse Infiltration,31.372816334861607
+others (152).jpg,2.1350000000000002,Grade II: Diffuse Infiltration,30.608997231668184
+others (153).jpg,2.018125,Grade II: Diffuse Infiltration,31.57547444963271
+others (154).jpg,2.451875,Grade II: Diffuse Infiltration,28.50028418363802
+others (155).jpg,2.04875,Grade II: Diffuse Infiltration,31.440147602561787
+others (156).jpg,2.309375,Grade II: Diffuse Infiltration,31.341095998180812
+others (157).jpg,2.4743749999999998,Grade II: Diffuse Infiltration,28.951099207266957
+others (158).jpg,2.3725,Grade II: Diffuse Infiltration,29.093670659322797
+others (159).jpg,2.0275000000000003,Grade II: Diffuse Infiltration,29.932489648935928
+others (16).jpg,1.9987499999999998,Grade II: Diffuse Infiltration,31.29533709687024
+others (160).jpg,2.23875,Grade II: Diffuse Infiltration,28.301774006383084
+others (161).jpg,1.985625,Grade II: Diffuse Infiltration,30.086382806457685
+others (162).jpg,2.205,Grade II: Diffuse Infiltration,31.16509062655982
+others (163).jpg,2.0925,Grade II: Diffuse Infiltration,30.025995475056146
+others (164).jpg,2.2887500000000003,Grade II: Diffuse Infiltration,29.41356010490785
+others (165).jpg,2.0774999999999997,Grade II: Diffuse Infiltration,30.46834775363905
+others (166).jpg,2.458125,Grade II: Diffuse Infiltration,29.98794341432528
+others (167).jpg,2.18875,Grade II: Diffuse Infiltration,29.34493512236368
+others (168).jpg,2.135625,Grade II: Diffuse Infiltration,29.558646344745725
+others (169).jpg,1.961875,Grade II: Diffuse Infiltration,29.949492320018845
+others (17).jpg,2.185625,Grade II: Diffuse Infiltration,30.645231466353643
+others (170).jpg,2.086875,Grade II: Diffuse Infiltration,29.222968128131686
+others (171).jpg,1.9037499999999998,Grade II: Diffuse Infiltration,29.47365404523685
+others (172).jpg,2.0081249999999997,Grade II: Diffuse Infiltration,31.724814839903303
+others (173).jpg,1.94625,Grade II: Diffuse Infiltration,31.24034411620791
+others (174).jpg,2.2849999999999997,Grade II: Diffuse Infiltration,29.655229316022425
+others (175).jpg,2.0650000000000004,Grade II: Diffuse Infiltration,28.996549983923103
+others (176).jpg,2.29375,Grade II: Diffuse Infiltration,29.464239544772603
+others (177).jpg,1.9875,Grade II: Diffuse Infiltration,30.65374251173726
+others (178).jpg,2.1975000000000002,Grade II: Diffuse Infiltration,30.93448942546317
+others (179).jpg,2.06875,Grade II: Diffuse Infiltration,28.197071296847398
+others (18).jpg,2.151875,Grade II: Diffuse Infiltration,31.70487685780256
+others (180).jpg,2.2331250000000002,Grade II: Diffuse Infiltration,30.324360555665404
+others (181).jpg,2.025625,Grade II: Diffuse Infiltration,29.95420350873259
+others (182).jpg,2.2624999999999997,Grade II: Diffuse Infiltration,29.083442641573015
+others (183).jpg,1.99125,Grade II: Diffuse Infiltration,31.30342822652547
+others (184).jpg,2.45875,Grade II: Diffuse Infiltration,28.137373207638646
+others (185).jpg,2.026875,Grade II: Diffuse Infiltration,29.032390518846825
+others (186).jpg,2.21,Grade II: Diffuse Infiltration,28.641169285979984
+others (187).jpg,2.469375,Grade II: Diffuse Infiltration,30.40523001459072
+others (188).jpg,2.619375,Grade II: Diffuse Infiltration,27.358069794332938
+others (189).jpg,2.34625,Grade II: Diffuse Infiltration,28.73966826413708
+others (19).jpg,1.9275,Grade II: Diffuse Infiltration,28.806325988292173
+others (190).jpg,2.516875,Grade II: Diffuse Infiltration,28.823627944683427
+others (191).jpg,2.080625,Grade II: Diffuse Infiltration,30.11702379958765
+others (192).jpg,1.8443749999999999,Grade II: Diffuse Infiltration,30.46654825328542
+others (2).jpg,1.8825,Grade II: Diffuse Infiltration,29.823812882884305
+others (20).jpg,2.673125,Grade II: Diffuse Infiltration,31.72535759513938
+others (21).jpg,2.07375,Grade II: Diffuse Infiltration,29.449214326249177
+others (22).jpg,2.04625,Grade II: Diffuse Infiltration,30.694551295304468
+others (23).jpg,1.72,Grade II: Diffuse Infiltration,31.602917926601286
+others (24).jpg,2.368125,Grade II: Diffuse Infiltration,29.60946774376096
+others (25).jpg,1.961875,Grade II: Diffuse Infiltration,32.19315324628554
+others (26).jpg,2.25,Grade II: Diffuse Infiltration,31.58707359623586
+others (27).jpg,2.21,Grade II: Diffuse Infiltration,29.72277412860133
+others (28).jpg,2.0081249999999997,Grade II: Diffuse Infiltration,30.38163499201156
+others (280).jpg,2.0324999999999998,Grade II: Diffuse Infiltration,29.817352628117288
+others (281).jpg,2.059375,Grade II: Diffuse Infiltration,30.84507102511853
+others (282).jpg,2.2418750000000003,Grade II: Diffuse Infiltration,29.010795944060924
+others (283).jpg,2.138125,Grade II: Diffuse Infiltration,29.695069634458417
+others (284).jpg,1.79,Grade II: Diffuse Infiltration,31.37341819892121
+others (29).jpg,1.9831250000000002,Grade II: Diffuse Infiltration,31.369622296789515
+others (3).jpg,2.605625,Grade II: Diffuse Infiltration,30.271208550731686
+others (30).jpg,2.11375,Grade II: Diffuse Infiltration,31.244559547084485
+others (31).jpg,1.7675,Grade II: Diffuse Infiltration,30.693498793408985
+others (32).jpg,1.959375,Grade II: Diffuse Infiltration,31.357165122946256
+others (33).jpg,1.8087499999999999,Grade II: Diffuse Infiltration,32.097479204385245
+others (34).jpg,2.50625,Grade II: Diffuse Infiltration,30.6981672034575
+others (35).jpg,2.385625,Grade II: Diffuse Infiltration,29.524140245165178
+others (36).jpg,1.7343750000000002,Grade II: Diffuse Infiltration,31.479075921002316
+others (37).jpg,2.3387499999999997,Grade II: Diffuse Infiltration,28.36367035840111
+others (38).jpg,2.32125,Grade II: Diffuse Infiltration,29.94018200006396
+others (39).jpg,2.58625,Grade II: Diffuse Infiltration,30.35673160114532
+others (4).jpg,1.861875,Grade II: Diffuse Infiltration,30.266724918692802
+others (40).jpg,2.098125,Grade II: Diffuse Infiltration,32.70705795047495
+others (41).jpg,2.0393749999999997,Grade II: Diffuse Infiltration,30.177634672401872
+others (42).jpg,2.3581250000000002,Grade II: Diffuse Infiltration,29.84497552000751
+others (43).jpg,2.078125,Grade II: Diffuse Infiltration,28.895713052611363
+others (44).jpg,1.855625,Grade II: Diffuse Infiltration,31.23210844579512
+others (45).jpg,2.544375,Grade II: Diffuse Infiltration,29.794066435134727
+others (46).jpg,2.42625,Grade II: Diffuse Infiltration,28.893889656842454
+others (47).jpg,2.00875,Grade II: Diffuse Infiltration,30.662232832421896
+others (48).jpg,1.9837500000000001,Grade II: Diffuse Infiltration,31.333163114443686
+others (49).jpg,2.035625,Grade II: Diffuse Infiltration,31.446435969557637
+others (5).jpg,2.249375,Grade II: Diffuse Infiltration,30.184587961528525
+others (50).jpg,2.284375,Grade II: Diffuse Infiltration,29.927715729496672
+others (51).jpg,2.1875,Grade II: Diffuse Infiltration,30.77035670010377
+others (52).jpg,2.1793750000000003,Grade II: Diffuse Infiltration,30.536971195030866
+others (53).jpg,1.8968749999999999,Grade II: Diffuse Infiltration,31.742559030545223
+others (54).jpg,2.294375,Grade II: Diffuse Infiltration,31.44819519892485
+others (55).jpg,1.9124999999999999,Grade II: Diffuse Infiltration,31.05236814324751
+others (56).jpg,1.9293749999999998,Grade II: Diffuse Infiltration,32.02258764441578
+others (57).jpg,2.24625,Grade II: Diffuse Infiltration,31.22839911947743
+others (58).jpg,2.2262500000000003,Grade II: Diffuse Infiltration,29.15788568493756
+others (59).jpg,2.3331250000000003,Grade II: Diffuse Infiltration,29.275763786828225
+others (6).jpg,1.93125,Grade II: Diffuse Infiltration,31.4509718036815
+others (60).jpg,2.0481249999999998,Grade II: Diffuse Infiltration,30.043126508293106
+others (61).jpg,1.8325,Grade II: Diffuse Infiltration,31.701731774360134
+others (62).jpg,2.01125,Grade II: Diffuse Infiltration,30.396401551321066
+others (63).jpg,1.874375,Grade II: Diffuse Infiltration,31.539975556531004
+others (64).jpg,2.06125,Grade II: Diffuse Infiltration,30.762898354589847
+others (65).jpg,2.19125,Grade II: Diffuse Infiltration,31.599609891187157
+others (66).jpg,2.26375,Grade II: Diffuse Infiltration,30.666356233573868
+others (67).jpg,2.1325,Grade II: Diffuse Infiltration,29.346244900681903
+others (68).jpg,2.074375,Grade II: Diffuse Infiltration,29.813304498550863
+others (69).jpg,2.040625,Grade II: Diffuse Infiltration,31.33949894259436
+others (7).jpg,2.170625,Grade II: Diffuse Infiltration,30.9760898825639
+others (70).jpg,2.2475,Grade II: Diffuse Infiltration,29.364413160131548
+others (71).jpg,1.998125,Grade II: Diffuse Infiltration,32.076181404232315
+others (72).jpg,2.36875,Grade II: Diffuse Infiltration,28.960869720787517
+others (73).jpg,2.2775,Grade II: Diffuse Infiltration,31.25701857027584
+others (74).jpg,2.0793749999999998,Grade II: Diffuse Infiltration,32.39568602792113
+others (75).jpg,2.169375,Grade II: Diffuse Infiltration,30.37859833473703
+others (76).jpg,2.05625,Grade II: Diffuse Infiltration,31.540405826796047
+others (77).jpg,1.9481249999999999,Grade II: Diffuse Infiltration,30.44896166156532
+others (78).jpg,1.908125,Grade II: Diffuse Infiltration,32.39240586835801
+others (79).jpg,1.8518750000000002,Grade II: Diffuse Infiltration,31.571169380847806
+others (8).jpg,1.881875,Grade II: Diffuse Infiltration,29.742202162179424
+others (80).jpg,2.125,Grade II: Diffuse Infiltration,31.59299173163017
+others (81).jpg,1.86375,Grade II: Diffuse Infiltration,31.98448598847511
+others (82).jpg,1.855625,Grade II: Diffuse Infiltration,31.42448118201171
+others (83).jpg,2.253125,Grade II: Diffuse Infiltration,30.398937696704174
+others (84).jpg,2.135625,Grade II: Diffuse Infiltration,30.1814935765017
+others (85).jpg,2.1325,Grade II: Diffuse Infiltration,30.867676812126454
+others (86).jpg,1.8825,Grade II: Diffuse Infiltration,29.876016229749407
+others (87).jpg,2.1149999999999998,Grade II: Diffuse Infiltration,32.49333781412534
+others (88).jpg,2.175,Grade II: Diffuse Infiltration,29.0500623948518
+others (89).jpg,1.8418750000000002,Grade II: Diffuse Infiltration,31.52612793024997
+others (9).jpg,2.166875,Grade II: Diffuse Infiltration,29.77012758813813
+others (90).jpg,1.8262500000000002,Grade II: Diffuse Infiltration,30.78850266488584
+others (91).jpg,2.1925,Grade II: Diffuse Infiltration,32.3606771247316
+others (92).jpg,2.3375,Grade II: Diffuse Infiltration,31.208001889327583
+others (93).jpg,1.839375,Grade II: Diffuse Infiltration,34.094582446867896
+others (94).jpg,1.8499999999999999,Grade II: Diffuse Infiltration,31.8922161184385
+others (95).jpg,1.6743750000000002,Grade II: Diffuse Infiltration,31.68430768842836
+others (96).jpg,1.8849999999999998,Grade II: Diffuse Infiltration,30.09339996308058
+others (97).jpg,1.8037500000000002,Grade II: Diffuse Infiltration,32.0770756252917
+others (98).jpg,1.8537499999999998,Grade II: Diffuse Infiltration,31.32528490782206
+others (99).jpg,2.795,Grade II: Diffuse Infiltration,29.79232908245363
+TB.499.jpg,1.41625,Grade I: Traces Detected,35.00413191487239
+TB.501.jpg,1.414375,Grade I: Traces Detected,30.67274484699071
+TB.502.jpg,1.773125,Grade II: Diffuse Infiltration,30.277735316147442
+TB.503.jpg,1.9068749999999999,Grade II: Diffuse Infiltration,29.4289409633147
+TB.504.jpg,1.0118749999999999,Grade I: Traces Detected,33.702235895415114
+TB.505.jpg,1.26875,Grade I: Traces Detected,32.11948443468497
+TB.506.jpg,1.4768750000000002,Grade I: Traces Detected,26.844362646464827
+TB.507.jpg,1.086875,Grade I: Traces Detected,29.15907695432513
+TB.508.jpg,1.63125,Grade II: Diffuse Infiltration,30.416418498019233
+TB.509.jpg,1.529375,Grade II: Diffuse Infiltration,27.449153095642608
+TB.510.jpg,1.3775000000000002,Grade I: Traces Detected,26.76012635604231
+TB.511.jpg,1.320625,Grade I: Traces Detected,28.789983501821354
+TB.512.jpg,1.4737500000000001,Grade I: Traces Detected,28.707321093566122
+TB.513.jpg,1.6400000000000001,Grade II: Diffuse Infiltration,30.49114512292697
+TB.514.jpg,1.559375,Grade II: Diffuse Infiltration,28.45107774597901
+TB.515.jpg,1.506875,Grade II: Diffuse Infiltration,28.544915147916733
+TB.516.jpg,1.195,Grade I: Traces Detected,26.51903546440508
+TB.517.jpg,1.43625,Grade I: Traces Detected,28.218601570537693
+TB.518.jpg,1.28125,Grade I: Traces Detected,26.374618714418805
+TB.520.jpg,1.6462500000000002,Grade II: Diffuse Infiltration,28.797494446499634
+TB.521.jpg,1.45125,Grade I: Traces Detected,27.063426887196083
+TB.522.jpg,1.799375,Grade II: Diffuse Infiltration,30.459042189034278
+TB.523.jpg,2.5056249999999998,Grade II: Diffuse Infiltration,27.962300171077445
+TB.524.jpg,1.6587500000000002,Grade II: Diffuse Infiltration,26.78096675772274
+TB.525.jpg,0.939375,Grade I: Traces Detected,27.84672100848896
+TB.526.jpg,1.3575,Grade I: Traces Detected,28.622015770593748
+TB.528.jpg,1.605625,Grade II: Diffuse Infiltration,29.758017362085077
+TB.529.jpg,1.295625,Grade I: Traces Detected,34.21328960761372
+TB.530.jpg,1.201875,Grade I: Traces Detected,27.398876507317105
+TB.531.jpg,1.7500000000000002,Grade II: Diffuse Infiltration,30.38511118718933
+TB.532.jpg,1.238125,Grade I: Traces Detected,26.94348453144991
+TB.533.jpg,1.373125,Grade I: Traces Detected,28.975890458550047
+TB.534.jpg,1.315625,Grade I: Traces Detected,25.922069639113893
+TB.535.jpg,1.4949999999999999,Grade I: Traces Detected,29.97656950637606
+TB.536.jpg,1.338125,Grade I: Traces Detected,26.99931888939346
+TB.537.jpg,1.3050000000000002,Grade I: Traces Detected,29.18853527444928
+TB.538.jpg,1.2625000000000002,Grade I: Traces Detected,34.143186847917626
+TB.539.jpg,1.876875,Grade II: Diffuse Infiltration,28.30046079266099
+TB.540.jpg,1.553125,Grade II: Diffuse Infiltration,26.993558604190774
+TB.541.jpg,1.92875,Grade II: Diffuse Infiltration,28.12366858593481
+TB.542.jpg,1.44875,Grade I: Traces Detected,31.147445092344235
+TB.543.jpg,1.5631249999999999,Grade II: Diffuse Infiltration,33.0954493485357
+TB.544.jpg,2.5856250000000003,Grade II: Diffuse Infiltration,26.750557594114298
+TB.545.jpg,1.47875,Grade I: Traces Detected,33.05104299296349
+TB.546.jpg,2.0525,Grade II: Diffuse Infiltration,28.281703394827133
+TB.547.jpg,1.7843749999999998,Grade II: Diffuse Infiltration,28.379013899270333
+TB.548.jpg,2.4937500000000004,Grade II: Diffuse Infiltration,26.68956967683711
+TB.549.jpg,2.42625,Grade II: Diffuse Infiltration,28.756493301640536
+TB.550.jpg,1.555,Grade II: Diffuse Infiltration,26.156257751436186
+TB.551.jpg,2.03375,Grade II: Diffuse Infiltration,28.427068651548254
+TB.552.jpg,2.61625,Grade II: Diffuse Infiltration,27.2826667096789
+TB.553.jpg,1.16875,Grade I: Traces Detected,28.877898363384663
+TB.554.jpg,2.3868750000000003,Grade II: Diffuse Infiltration,27.006717116893128
+TB.555.jpg,1.53125,Grade II: Diffuse Infiltration,31.905211902447128
+TB.556.jpg,1.335,Grade I: Traces Detected,27.958034256386284
+TB.557.jpg,1.733125,Grade II: Diffuse Infiltration,30.73154010990259
+TB.558.jpg,1.42875,Grade I: Traces Detected,26.829694466314038
+TB.559.jpg,1.493125,Grade I: Traces Detected,27.52463155714264
+TB.560.jpg,1.278125,Grade I: Traces Detected,29.688212025439036
+TB.561.jpg,1.5824999999999998,Grade II: Diffuse Infiltration,29.27116431371502
+TB.562.jpg,1.194375,Grade I: Traces Detected,27.553662951656158
+TB.563.jpg,2.683125,Grade II: Diffuse Infiltration,26.256204701946757
+TB.564.jpg,1.4449999999999998,Grade I: Traces Detected,30.58478012334156
+TB.565.jpg,1.428125,Grade I: Traces Detected,27.270834021860637
+TB.567.jpg,2.109375,Grade II: Diffuse Infiltration,29.911100973184396
+TB.568.jpg,1.559375,Grade II: Diffuse Infiltration,32.27230843965473
+TB.569.jpg,2.07375,Grade II: Diffuse Infiltration,29.87982806614616
+TB.570.jpg,1.394375,Grade I: Traces Detected,27.224849655387956
+TB.571.jpg,1.9987499999999998,Grade II: Diffuse Infiltration,29.009742357689973
+TB.572.jpg,1.25625,Grade I: Traces Detected,32.15901755097738
+TB.573.jpg,1.58125,Grade II: Diffuse Infiltration,30.309766584581148
+TB.574.jpg,1.38375,Grade I: Traces Detected,28.393939723191522
+TB.575.jpg,1.205625,Grade I: Traces Detected,32.34091936377633
+TB.576.jpg,1.6031250000000001,Grade II: Diffuse Infiltration,31.96491036827814
+TB.577.jpg,2.059375,Grade II: Diffuse Infiltration,28.414551813211236
+TB.578.jpg,1.660625,Grade II: Diffuse Infiltration,29.7421982284545
+TB.579.jpg,2.574375,Grade II: Diffuse Infiltration,28.645000430058122
+TB.580.jpg,1.23375,Grade I: Traces Detected,31.20283106400763
+TB.581.jpg,2.1575,Grade II: Diffuse Infiltration,27.8132790500742
+TB.582.jpg,1.63875,Grade II: Diffuse Infiltration,30.105890187736563
+TB.583.jpg,1.83875,Grade II: Diffuse Infiltration,27.67537625015769
+TB.585.jpg,1.63375,Grade II: Diffuse Infiltration,25.496857359949757
+TB.586.jpg,2.228125,Grade II: Diffuse Infiltration,28.22396744089549
+TB.587.jpg,2.0862499999999997,Grade II: Diffuse Infiltration,27.056365967610848
+TB.588.jpg,1.685,Grade II: Diffuse Infiltration,30.046192594241
+TB.589.jpg,2.45125,Grade II: Diffuse Infiltration,29.81668468086219
+TB.590.jpg,1.7000000000000002,Grade II: Diffuse Infiltration,29.38639858193419
+TB.591.jpg,2.21875,Grade II: Diffuse Infiltration,30.09194795685646
+TB.592.jpg,1.43,Grade I: Traces Detected,30.405332206600857
+TB.593.jpg,1.4500000000000002,Grade I: Traces Detected,27.861042692948544
+TB.594.jpg,1.65375,Grade II: Diffuse Infiltration,30.669577125274333
+TB.595.jpg,1.613125,Grade II: Diffuse Infiltration,28.000402404942797
+TB.596.jpg,1.81,Grade II: Diffuse Infiltration,30.474825337072108
+TB.597.jpg,2.613125,Grade II: Diffuse Infiltration,27.325391450727416
+TB.598.jpg,1.86375,Grade II: Diffuse Infiltration,29.588844251558243
+TB.599.jpg,1.636875,Grade II: Diffuse Infiltration,28.131844411537536
+TB.600.jpg,1.7618749999999999,Grade II: Diffuse Infiltration,32.17647110796024
+TB.601.jpg,1.646875,Grade II: Diffuse Infiltration,27.229247417191008
+TB.602.jpg,1.5625,Grade II: Diffuse Infiltration,29.37614957411581
+TB.603.jpg,1.506875,Grade II: Diffuse Infiltration,33.524671944980426
+TB.604.jpg,1.481875,Grade I: Traces Detected,26.466386830148522
+TB.605.jpg,1.6993749999999999,Grade II: Diffuse Infiltration,33.64895874788523
+TB.606.jpg,2.0525,Grade II: Diffuse Infiltration,28.01805317872436
+TB.607.jpg,1.280625,Grade I: Traces Detected,34.416967103993706
+TB.608.jpg,1.560625,Grade II: Diffuse Infiltration,31.375058143344532
+TB.609.jpg,1.6031250000000001,Grade II: Diffuse Infiltration,25.22071753966207
+TB.610.jpg,1.7025,Grade II: Diffuse Infiltration,33.797430372059694
+TB.611.jpg,1.713125,Grade II: Diffuse Infiltration,30.36936200701227
+TB.612.jpg,1.66,Grade II: Diffuse Infiltration,28.08366659958368
+TB.613.jpg,1.726875,Grade II: Diffuse Infiltration,27.14081018240021
+TB.614.jpg,1.749375,Grade II: Diffuse Infiltration,29.88567326186272
+TB.615.jpg,1.64875,Grade II: Diffuse Infiltration,29.102282831155108
+TB.616.jpg,1.5106249999999999,Grade II: Diffuse Infiltration,28.798724425526817
+TB.617.jpg,1.673125,Grade II: Diffuse Infiltration,27.67189307293387
+TB.618.jpg,1.6187500000000001,Grade II: Diffuse Infiltration,26.302472204274792
+TB.619.jpg,1.915,Grade II: Diffuse Infiltration,30.193124071586542
+TB.620.jpg,1.53125,Grade II: Diffuse Infiltration,26.450482290016076
+TB.621.jpg,1.63375,Grade II: Diffuse Infiltration,31.53554619234056
+TB.622.jpg,1.716875,Grade II: Diffuse Infiltration,27.3434535538452
+TB.623.jpg,2.03125,Grade II: Diffuse Infiltration,29.11671561129547
+TB.624.jpg,1.644375,Grade II: Diffuse Infiltration,28.976867921005734
+TB.625.jpg,1.565625,Grade II: Diffuse Infiltration,28.54296400103088
+TB.626.jpg,2.3825,Grade II: Diffuse Infiltration,27.364948900536504
+TB.627.jpg,1.52,Grade II: Diffuse Infiltration,27.718788813938254
+TB.628.jpg,1.713125,Grade II: Diffuse Infiltration,29.59662341150665
+TB.629.jpg,1.43,Grade I: Traces Detected,29.569633263091582
+TB.630.jpg,1.6256249999999999,Grade II: Diffuse Infiltration,28.807517869397564
+TB.631.jpg,1.40875,Grade I: Traces Detected,29.524766174389967
+TB.632.jpg,1.8781249999999998,Grade II: Diffuse Infiltration,26.338664318307078
+TB.633.jpg,1.8124999999999998,Grade II: Diffuse Infiltration,27.757502202530105
+TB.634.jpg,1.7975,Grade II: Diffuse Infiltration,27.940732291986578
+TB.635.jpg,1.77125,Grade II: Diffuse Infiltration,28.584896205520707
+TB.636.jpg,1.6031250000000001,Grade II: Diffuse Infiltration,27.85173689469518
+TB.637.jpg,1.263125,Grade I: Traces Detected,26.87113855209931
+TB.638.jpg,1.809375,Grade II: Diffuse Infiltration,32.2342811300108
+TB.639.jpg,1.6549999999999998,Grade II: Diffuse Infiltration,28.395406426360914
+TB.640.jpg,2.366875,Grade II: Diffuse Infiltration,26.496345766300603
+TB.641.jpg,1.789375,Grade II: Diffuse Infiltration,30.41771108619127
+TB.642.jpg,1.5856249999999998,Grade II: Diffuse Infiltration,27.60845815730404
+TB.82.jpg,2.2475,Grade II: Diffuse Infiltration,27.676293867771136
+TB.83.jpg,1.8643750000000001,Grade II: Diffuse Infiltration,31.586833573588304
+TB.84.jpg,1.82,Grade II: Diffuse Infiltration,34.2756502161112

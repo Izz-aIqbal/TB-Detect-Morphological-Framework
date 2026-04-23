@@ -1,0 +1,18 @@
+======================================================================
+             V-SCAN MEDICAL AI: RADIOLOGY DIAGNOSTIC REPORT            
+======================================================================
+ FILE ID: CHNCXR_0157_0.png         DATE: 01-04-2026
+----------------------------------------------------------------------
+
+ [ SUMMARY OF FINDINGS ]
++-----------------------------------+-------------------------------+
+| DIAGNOSTIC PARAMETER              | OBSERVED VALUE                |
++-----------------------------------+-------------------------------+
+| Overall Severity Grade            | Grade II: Diffuse Infiltration |
+| Infection Area Ratio (IAR)        |   1.73%                       |
+| Detected Lesion Clusters          | 15                            |
+| Bilateral Symmetry Status         | SYMMETRIC                     |
++-----------------------------------+-------------------------------+
+
+ INTERPRETATION: Moderate spread across lung lobes. Standard TB pattern.
+======================================================================

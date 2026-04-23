@@ -1,0 +1,7 @@
+--- V-SCAN ADVANCED DIAGNOSTIC REPORT ---
+File Name: TB.85.jpg
+Severity Grade: Grade I: Traces Detected
+Infection Area Ratio (IAR): 1.49%
+Detected Lesion Clusters: 9
+Symmetry Status: ✅ SYMMETRIC
+----------------------------------------

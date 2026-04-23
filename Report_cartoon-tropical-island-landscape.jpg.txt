@@ -1,0 +1,21 @@
+======================================================================
+       V-SCAN MEDICAL AI: RADIOLOGY DIAGNOSTIC REPORT
+======================================================================
+ FILE ID : cartoon-tropical-island-landscape.jpg DATE: 01-04-2026
+----------------------------------------------------------------------
+
+ [ SUMMARY OF FINDINGS ]
+
+  Severity Grade            : Grade I: Traces Detected
+  Infection Area Ratio (IAR): 0.86%
+  Lesion Clusters           : 41
+  Symmetry Status           : ASYMMETRIC
+  Image Quality (PSNR)      : 25.0 dB
+  Struct. Similarity (SSIM) : 0.659
+
+ [ CLINICAL INTERPRETATION ]
+
+  Minimal localized changes. Early consolidation suggested.
+
+  Note: Final diagnosis must be confirmed by a certified Radiologist.
+======================================================================
